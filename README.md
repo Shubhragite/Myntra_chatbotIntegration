@@ -1,7 +1,4 @@
 # Myntra_chatbotIntegration
-Here's a professional and well-structured GitHub README for your **Myntra Chatbot Integration Project**:  
-
----
 
 # Myntra Chatbot Integration  
 
