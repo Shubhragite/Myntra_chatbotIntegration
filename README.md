@@ -74,8 +74,6 @@ This project was part of the **Myntra 'We for She' Hackathon**.
 - Special thanks to Myntra for the opportunity and support.  
 
 
-**GitHub**: [your-username](https://github.com/your-username)  
-
 ---
 
 Let me know if you’d like any adjustments! 😊
